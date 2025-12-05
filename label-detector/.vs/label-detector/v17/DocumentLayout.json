@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Coop\\label-detector\\label-detector\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB141FE1-4CC7-4616-8718-1878B1537C35}|label-detector\\label-detector.csproj|d:\\coop\\label-detector\\label-detector\\label-detector\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DB141FE1-4CC7-4616-8718-1878B1537C35}|label-detector\\label-detector.csproj|D:\\Coop\\label-detector\\label-detector\\label-detector\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DB141FE1-4CC7-4616-8718-1878B1537C35}|label-detector\\label-detector.csproj|solutionrelative:label-detector\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB141FE1-4CC7-4616-8718-1878B1537C35}|label-detector\\label-detector.csproj|d:\\coop\\label-detector\\label-detector\\label-detector\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB141FE1-4CC7-4616-8718-1878B1537C35}|label-detector\\label-detector.csproj|solutionrelative:label-detector\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB141FE1-4CC7-4616-8718-1878B1537C35}|label-detector\\label-detector.csproj|D:\\Coop\\label-detector\\label-detector\\label-detector\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB141FE1-4CC7-4616-8718-1878B1537C35}|label-detector\\label-detector.csproj|solutionrelative:label-detector\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Coop\\label-detector\\label-detector\\label-detector\\Form1.cs",
+              "RelativeDocumentMoniker": "label-detector\\Form1.cs",
+              "ToolTip": "D:\\Coop\\label-detector\\label-detector\\label-detector\\Form1.cs",
+              "RelativeToolTip": "label-detector\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:08:31.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coop\\label-detector\\label-detector\\label-detector\\Program.cs",
+              "RelativeDocumentMoniker": "label-detector\\Program.cs",
+              "ToolTip": "D:\\Coop\\label-detector\\label-detector\\label-detector\\Program.cs",
+              "RelativeToolTip": "label-detector\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:21:32.82Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,

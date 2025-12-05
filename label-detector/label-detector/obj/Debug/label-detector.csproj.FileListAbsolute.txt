@@ -1,0 +1,10 @@
+D:\Coop\label-detector\label-detector\label-detector\obj\Debug\label-detector.csproj.AssemblyReference.cache
+D:\Coop\label-detector\label-detector\label-detector\obj\Debug\label_detector.Form1.resources
+D:\Coop\label-detector\label-detector\label-detector\obj\Debug\label_detector.Properties.Resources.resources
+D:\Coop\label-detector\label-detector\label-detector\obj\Debug\label-detector.csproj.GenerateResource.cache
+D:\Coop\label-detector\label-detector\label-detector\obj\Debug\label-detector.csproj.CoreCompileInputs.cache
+D:\Coop\label-detector\label-detector\label-detector\bin\Debug\label-detector.exe.config
+D:\Coop\label-detector\label-detector\label-detector\bin\Debug\label-detector.exe
+D:\Coop\label-detector\label-detector\label-detector\bin\Debug\label-detector.pdb
+D:\Coop\label-detector\label-detector\label-detector\obj\Debug\label-detector.exe
+D:\Coop\label-detector\label-detector\label-detector\obj\Debug\label-detector.pdb
